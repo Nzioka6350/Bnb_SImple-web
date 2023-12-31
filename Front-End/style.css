@@ -33,7 +33,7 @@ header p{
     display:flex;
     align-items: center;
     justify-content: space-between;
-    flex-direction: row;
+    /* flex-direction: column; */
     background-color: white;
     padding: 0 20px;
 }
@@ -48,6 +48,7 @@ header p{
     border: none;
     cursor: pointer;
     transition: opacity 0.3s ease;
+    /* margin-right: 30px; */
 
 }
 .filters button:hover{
