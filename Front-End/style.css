@@ -55,6 +55,14 @@ header p{
     opacity: 90%;
 }
 
+.locate h3{
+    font-weight: 600;
+}
+.locate h4{
+    font-weight: 400;
+    font-size: 14px;
+    
+}
 footer{
     background-color: white;
    height: 40px;
